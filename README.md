@@ -1,1 +1,1 @@
-# action_segmentaion
+# action_segmentation
